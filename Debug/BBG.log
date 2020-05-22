@@ -1,0 +1,6 @@
+﻿  Individ.cpp
+G:\Faculta\Random code\BB\BBG\Individ.cpp(21,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Source.cpp
+  Util.cpp
+  Generating Code...
+  BBG.vcxproj -> G:\Faculta\Random code\BB\BBG\Debug\BBG.exe
